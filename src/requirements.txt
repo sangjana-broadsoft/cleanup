@@ -1,0 +1,2 @@
+cx_Freeze==6.15.10
+generated_swagger_client==1.0.2
